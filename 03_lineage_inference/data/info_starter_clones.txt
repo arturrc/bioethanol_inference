@@ -1,0 +1,13 @@
+label	pretty_label	strain	clone	keep	ploidy	notes
+FT-858a	*FT-858(a)	FT-858	a	T	3	NA
+FT-858b	*FT-858(b)	FT-858	b	T	3	NA
+FT-858c	*FT-858(c)	FT-858	c	T	3	NA
+IRA-Da	*IRA-D(a)	IRA-D	a	T	3	NA
+IRA-Db	*IRA-D(b)	IRA-D	b	T	3	NA
+IRA-Dc	*IRA-D(c)	IRA-D	c	F	3	"low coverage"
+PE-2a	*PE-2(a)	PE-2	a	T	2	NA
+PE-2b	*PE-2(b)	PE-2	b	T	2	NA
+PE-2c	*PE-2(c)	PE-2	c	T	2	NA
+SA-1a	*SA-1(a)	SA-1	a	T	2	NA
+SA-1b	*SA-1(b)	SA-1	b	T	2	NA
+SA-1c	*SA-1(c)	SA-1	c	T	2	NA
