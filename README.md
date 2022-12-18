@@ -1,8 +1,8 @@
 # INFERENCE OF POPULATION DYNAMICS FROM METAGENOMIC DATA
 This repo accompanies the research article
 > Artur Rego-Costa, I-Ting Huang, Michael M. Desai, Andreas K. Gombert (2022)
-> *Yeast population dynamics in Brazilian bioethanol production*
-> bioRxiv ([link](https://www.biorxiv.org/content/10.1101/2022.10.31.514616v1))
+> **Yeast population dynamics in Brazilian bioethanol production**
+> *bioRxiv* ([link](https://www.biorxiv.org/content/10.1101/2022.10.31.514616v1))
 
 It contains example pipelines and minimal code necessary for:
 1. Calling variants from isolate clonal whole-genome sequencing data;
